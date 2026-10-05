@@ -1,5 +1,5 @@
 # Embedded-Systems-lab
-Exercises and assignments completed during the Microcontroller Systems laboratory course.
+Hands-on firmware development practice using STM32 microcontrollers.
 
 **STM32 NUCLEO BOARDS**: NUCLEO-F401RE, NUCLEO-L476RG
 
