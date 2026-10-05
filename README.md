@@ -8,3 +8,5 @@ Exercises and assignments completed during the Microcontroller Systems laborator
 **Core**: ARM Cortex-M4
 
 Programming Language: C
+
+N.B. The firmware uses CMSIS together with a custom library developed for the course (stm32_unict_lib.h) to interact with the hardware.
